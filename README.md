@@ -1,6 +1,6 @@
-# sangamarket
+# Flutter Store
 
-Sanga Market Shopping App
+Flutter Shopping App
 
 ## Getting Started
 
